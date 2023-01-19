@@ -50,7 +50,7 @@ The script cleans the data slightly:
 
 
 ## Result
-A version of the resulting `minerals.csv` is included in the repository. Feel free to use it under the terms of [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License), Data © Wikipedia editors and contributors.
+A version of the resulting [minerals.csv](https://raw.githubusercontent.com/florianneukirchen/scrape_mineral_data/main/minerals.csv) is included in the repository. Feel free to use it under the terms of [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License), Data © Wikipedia editors and contributors.
 ## Requirements
 - BeautifulSoup
 - requests
