@@ -68,6 +68,9 @@ pytest test.project.py
 ```
 Note that the file andradite.html is used by the tests.
 
+## License
+The source code is under [MIT license](https://github.com/florianneukirchen/scrape_mineral_data/blob/main/LICENSE), the scraped data is © Wikipedia editors and contributors, [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).
+
 ## Functions
 
 ### main()
